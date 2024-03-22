@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="styles.css">
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: navy;
+}
+
+p, li {
+    color: darkslategray;
+}
+
+ul {
+    list-style-type: none;
+}
